@@ -1,0 +1,48 @@
+[
+  {
+    "ContainingType": "WebApplication1.Controllers.CalculatorController",
+    "Method": "Calculate",
+    "RelativePath": "api/Calculator/calculate",
+    "HttpMethod": "POST",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [
+      {
+        "Name": "request",
+        "Type": "WebApplication1.Controllers.CalcRequest",
+        "IsRequired": true
+      }
+    ],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CalculatorController",
+    "Method": "GetHistory",
+    "RelativePath": "api/Calculator/history",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CalculatorController",
+    "Method": "Test",
+    "RelativePath": "api/Calculator/test",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
+    "ContainingType": "WebApplication1.Controllers.CalculatorController",
+    "Method": "TestDb",
+    "RelativePath": "api/Calculator/testdb",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
